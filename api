@@ -1,0 +1,99 @@
+[
+    {
+      "brand": "Apple",
+      "model": "Watch Series 7",
+      "img" : "https://images.unsplash.com/photo-1585123334904-845d60e97b29?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 399,
+      "features": ["GPS", "Heart Rate Monitor", "Water Resistant", "ECG"],
+      "batteryLife": "18 hours"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Watch 4",
+      "img" : "https://images.unsplash.com/photo-1620625515032-6ed0c1790c75?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D",
+      "price": 249,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "ECG"],
+      "batteryLife": "40 hours"
+      
+    },
+    {
+      "brand": "Garmin",
+      "model": "Forerunner 245",
+      "img" : "https://images.unsplash.com/photo-1629581678313-36cf745a9af9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+      "price": 299,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Music"],
+      "batteryLife": "7 days"
+    },
+    {
+      "brand": "Fitbit",
+      "model": "Versa 3",
+      "img" : "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 229,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Voice Assistant"],
+      "batteryLife": "6 days"
+    },
+    {
+      "brand": "Fossil",
+      "model": "Gen 5",
+      "img" : "https://images.unsplash.com/photo-1604242692760-2f7b0c26856d?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": 295,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Google Assistant"],
+      "batteryLife": "24 hours"
+    },
+    {
+      "brand": "Amazfit",
+      "model": "GTS 2",
+      "img" : "https://images.unsplash.com/photo-1533139502658-0198f920d8e8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDJ8fHxlbnwwfHx8fHw%3D",
+      "price": 179,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "SpO2"],
+      "batteryLife": "7 days"
+    },
+    {
+      "brand": "Huawei",
+      "model": "Watch GT 2",
+      "img" : "https://unsplash.com/photos/round-gray-analog-watch-with-brown-band-SX9IouL_qOg",
+      "price": 199,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "SpO2"],
+      "batteryLife": "14 days"
+    },
+    {
+      "brand": "Suunto",
+      "model": "7",
+      "img" : "https://images.unsplash.com/photo-1468421201266-ec88b2809284?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D",
+      "price": 399,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Offline Maps"],
+      "batteryLife": "12 hours"
+    },
+    {
+      "brand": "Withings",
+      "model": "Steel HR",
+      "img" : "https://images.unsplash.com/photo-1516461240763-822a87484851?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHx8",
+      "price": 179,
+      "features": ["Heart Rate Monitor", "Sleep Tracking", "Water Resistant"],
+      "batteryLife": "25 days"
+    },
+    {
+      "brand": "TicWatch",
+      "model": "Pro 3",
+      "img" : "https://images.unsplash.com/photo-1585123334904-845d60e97b29?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8",
+      "price": 299,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "SpO2"],
+      "batteryLife": "72 hours"
+    },
+    {
+      "brand": "Polar",
+      "model": "Vantage V2",
+      "img" : "https://images.unsplash.com/photo-1607850478735-9eaa12b2fbb1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEzfHx8ZW58MHx8fHx8",
+      "price": 499,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Running Power"],
+      "batteryLife": "40 hours"
+    },
+    {
+      "brand": "Garmin",
+      "model": "Fenix 6",
+      "img" : "https://images.unsplash.com/photo-1497382706140-605ee76b3b55?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fHw%3D",
+      "price": 599,
+      "features": ["GPS", "Heart Rate Monitor", "Sleep Tracking", "Music"],
+      "batteryLife": "14 days"
+    }
+  ]
